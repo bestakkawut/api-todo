@@ -1,0 +1,25 @@
+{
+  "name": "api-todo",
+  "version": "1.0.0",
+  "description": "api todo list for candidate test",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/bestakkawut/api-todo.git"
+  },
+  "keywords": [
+    "todo"
+  ],
+  "author": "Akkawut",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bestakkawut/api-todo/issues"
+  },
+  "homepage": "https://github.com/bestakkawut/api-todo#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
